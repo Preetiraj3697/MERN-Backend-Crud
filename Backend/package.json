@@ -2,7 +2,6 @@
   "name": "we",
   "version": "1.0.0",
   "description": "joining the masai lecture (Authentication)\r permission \r just a way of idenfication",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
