@@ -4,8 +4,7 @@
   "description": "joining the masai lecture (Authentication)\r permission \r just a way of idenfication",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
